@@ -1,0 +1,60 @@
+CIBERPROTECCIÓN PARA PYMES — GUÍA PRÁCTICA
+Capítulo 6 — Correo Electrónico
+Lista de Verificación
+© Mauricio Vergara Manjarrés
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE GOBERNANZA
+══════════════════════════════════════════════════════════════
+☐  Definir Política de Gestión del Correo Electrónico
+☐  Definir Política de Retención de Mensajes
+☐  Establecer Proceso de Gestión de Buzones
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE IDENTIFICACIÓN
+══════════════════════════════════════════════════════════════
+☐  Documentar sistema de correo
+☐  Documentar nombres de buzones
+☐  Determinar Score de Seguridad
+☐  Determinar Indicadores Clave de Riesgo (KRI)
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE PROTECCIÓN
+══════════════════════════════════════════════════════════════
+☐  Diseñar Plan de Respuesta a Incidentes
+☐  Segurizar Cuenta o Tenant
+☐  Configurar Registros de Recursos (RR) en DNS
+☐  Implementar filtro Antispam/Antiphishing
+☐  Proteger dominio contra intra-spoofing
+☐  Desplegar Autenticación Multifactorial
+☐  Implementar Firmas Digitales
+☐  Ejecutar Copias de Seguridad de buzones
+☐  Configurar Retención Legal en buzones críticos
+☐  Entrenar y capacitar a los usuarios finales
+☐  Ejecutar Mantenimientos Preventivos
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE DETECCIÓN
+══════════════════════════════════════════════════════════════
+☐  Auditar Listas Negras
+☐  Implementar alertas BEC/ATO
+☐  Instalar complemento para reporte de mensajes sospechosos
+☐  Ejecutar Auditorías de Vulnerabilidad de usuarios
+☐  Ejecutar mantenimientos preventivos periódicos
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE RESPUESTA
+══════════════════════════════════════════════════════════════
+☐  Activar Plan de Respuesta a Incidentes
+☐  Contener el incidente
+☐  Preservar evidencia
+☐  Notificar a las partes afectadas
+☐  Auditar Plan de Respuesta
+
+══════════════════════════════════════════════════════════════
+FUNCIÓN DE RECUPERACIÓN
+══════════════════════════════════════════════════════════════
+☐  Documentar evidencias forenses
+☐  Recuperar elementos y buzones
+☐  Realizar análisis post-mortem
+
